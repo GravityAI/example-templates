@@ -1,0 +1,6 @@
+[{"text": "I don't know about you, but there's only one thing I want to do after a long day of work",
+  "max_length": 150,
+  "num_beams": 5,
+  "no_repeat_ngram_size": 2,
+  "num_return_sequences": 5,
+  "early_stopping": true}]

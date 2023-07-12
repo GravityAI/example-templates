@@ -1,0 +1,8 @@
+{
+    "UseGaiLib": true,
+    "Tests": [
+      {
+        "RelativeInputPath": "./dataInput.json"
+      }
+    ]
+}

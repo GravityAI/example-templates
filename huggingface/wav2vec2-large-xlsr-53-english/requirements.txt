@@ -1,0 +1,2 @@
+gravityai==0.1.4.post2
+huggingsound==0.1.6

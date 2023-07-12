@@ -1,0 +1,8 @@
+{
+    "UseGaiLib": true,
+    "Tests": [
+        {
+            "RelativeInputPath": "./4507-16021-0012.wav"
+        }
+    ]
+}
